@@ -10,6 +10,7 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -10786,6 +10787,7 @@ header.masthead .post-heading .meta a {
   font-size: 1.125rem;
   font-style: italic;
   margin-top: 0;
+  margin-bottom: 0;
   color: #6c757d;
 }
 .post-preview > .post-meta > a {
